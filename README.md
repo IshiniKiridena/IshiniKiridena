@@ -1,6 +1,6 @@
 ### Hello there 👋
 # 💫 About Me:
-👩‍💻 I’m currently working as a Trainee Software Engineer(Blockchain) at Tracified - 99x.<br>👩‍🎓 I'm reading for my SE degree at SLIIT.<br>🌱 I’m currently learning new frameworks, blockchain development, web development, and other technologies.<br>📬 How to reach me: ishini.kiridena@gmail.com.<br>👓 Check out my blog as well: https://medium.com/@ishini.kiridena <br>
+👩‍💻 I’m currently working as a Associate Software Engineer(Blockchain) at Tracified - 99x.<br>👩‍🎓 I'm reading for my SE degree at SLIIT.<br>🌱 I’m currently learning new frameworks, blockchain development, web development, and other technologies.<br>📬 How to reach me: ishini.kiridena@gmail.com.<br>👓 Check out my blog as well: https://medium.com/@ishini.kiridena <br>
 
 
 ## 🌐 Socials:
