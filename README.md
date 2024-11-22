@@ -1,6 +1,6 @@
 ### Hello there 👋
 # 💫 About Me:
-👩‍💻 I’m currently working as a Software Engineer(Web3 - Fullstack) at CCN.<br>🌱 I’m currently learning new frameworks, blockchain development, web development, and other technologies.<br>📬 How to reach me: ishini.kiridena@gmail.com.<br>👓 Check out my blog as well: https://medium.com/@ishini.kiridena <br>
+👩‍💻 I’m currently working as a Software Engineer(Web3 - Fullstack).<br>🌱 I’m currently learning new frameworks, blockchain development, web development, and other technologies.<br>📬 How to reach me: ishini.kiridena@gmail.com.<br>👓 Check out my blog as well: https://medium.com/@ishini.kiridena <br>
 
 
 ## 🌐 Socials:
