@@ -14,6 +14,9 @@
 <img src="https://raw.githubusercontent.com/IshiniKiridena/certificates/main/badges/crud-operations-in-mongodb.png" alt="CRUD Operations in MongoDB" width="200" />
 <a href="https://www.credly.com/badges/68aa6ff9-c46c-41ee-9347-f220ad45d18a/public_url">View Certificate</a>
 
+<img src="https://raw.githubusercontent.com/IshiniKiridena/certificates/main/badges/MongoDB-Query-Optimization-Techniques.png" alt="MongoDB Query Optimization Techniques" width="200" />
+<a href="https://www.credly.com/badges/763e6d73-26c2-4ef3-952e-570099bca37a/public_url">View Certificate</a>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IshiniKiridena&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IshiniKiridena&theme=shades-of-purple&hide_border=false)<br/>
