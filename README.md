@@ -27,6 +27,8 @@
 
 </div>
 
+### [Introduction to Gen AI](https://www.cloudskillsboost.google/public_profiles/a7039342-a06f-472a-9049-fd8090fa1bd6/badges/18192760) - Google
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IshiniKiridena&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IshiniKiridena&theme=shades-of-purple&hide_border=false)<br/>
