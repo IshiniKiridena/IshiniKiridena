@@ -1,45 +1,136 @@
-### Hello there 👋
-# 💫 About Me:
-👩‍💻 I’m currently working as a Software Engineer(Web3 - Fullstack).<br>🌱 I’m currently learning new frameworks, blockchain development, web development, and other technologies.<br>📬 How to reach me: ishini.kiridena@gmail.com.<br>👓 Check out my blog as well: https://medium.com/@ishini.kiridena <br>
+
+# 👋 Hi, I'm Ishini Kiridena
+
+**Full-Stack & Web3 Engineer | Frontend-Focused | UX-Driven Builder**
+
+I build reliable, scalable digital experiences from **UI/UX**, to **frontend engineering**, to **full-stack and Web3 solutions**.  
+I enjoy solving real business problems, improving user journeys, and delivering clean, maintainable code.
+
+🔭 **Current Focus:** Full-stack engineering, Web3 integrations, modern frontend stacks  
+🎯 **Looking for:** Frontend / Full-Stack roles (React, Next.js, Node.js, Go, Web3)  
+📝 I write about engineering & career growth: **[https://medium.com/@ishini.kiridena](https://medium.com/@ishini.kiridena)**  
+📫 Reach me at: **ishini.kiridena@gmail.com**  
+🎥 I make fun, simple videos explaining engineering concepts: **[https://www.youtube.com/@DucklingDebugs/shorts](https://www.youtube.com/@DucklingDebugs/shorts)**
+
+## 🚀 Featured Projects
+
+Here are the projects that best represent my engineering style, product thinking, and technical depth.
+
+### 🔹 **Property Solutions – Full Real Estate Marketplace (Next.js + Tailwind + Node.js)**
+
+A complete property marketplace platform featuring listings, filtering, inquiries, and an integrated admin dashboard for content management.  
+**Role:** UX, UI, Frontend, Backend Integration, Deployment  
+**Highlights:** Dynamic property listings, inquiry handling system, reusable UI components, SEO optimization, responsive design, secure admin portal  
+🔗 _Repo:_ _Private (can demo on request)_  
+🔗 _Live URL:_ _[https://www.propertysolutionlk.com/](https://www.propertysolutionlk.com/)_
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ishini.kiridena/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_i.s.h.i.n.i_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishini-kiridena-8a5260152/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ishini.kiridena) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/13511510/ishini-kiridena) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://www.linkedin.com/in/ishini-kiridena-8a5260152/) 
+### 🔹 **Beaver Global Care Foundation – Full Website (Next.js + Tailwind + shadcn)**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=flat&logo=SemanticUIReact&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+A fully designed and developed NGO website with 8+ pages, project management system, responsive UI, and strong SEO foundations.  
+**Role:** UX, UI, Frontend, Content structuring, Deployment  
+**Highlights:** Static JSON project management, reusable components, animations, SEO meta, Vercel deploy  
+🔗 _Repo:_ _Private (can demo on request)_  
+🔗 _Live URL:_ _https://www.beaverglobalcare.org/_
 
-# 🏅 Certifications
 
-<div style="display: flex; gap: 40px; align-items: center;">
+### 🔹 **Monarcho Events – Event Planning & Booking Platform (Next.js + Tailwind + shadcn/ui)**
 
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/IshiniKiridena/certificates/main/badges/crud-operations-in-mongodb.png" alt="CRUD Operations in MongoDB" width="200" />
-    <br/>
-    <a href="https://www.credly.com/badges/68aa6ff9-c46c-41ee-9347-f220ad45d18a/public_url">View Certificate</a>
-  </div>
+A modern event planner website featuring service showcases, booking functionality, and a full admin dashboard for managing inquiries and content.  
+**Role:** UX, UI, Frontend, Backend Integration, Deployment  
+**Highlights:** Dynamic service pages, booking request system, admin dashboard for event & inquiry management, responsive UI, reusable components, SEO-optimized structure  
+🔗 _Repo:_ _Private (can demo on request)_  
+🔗 _Live URL:_ _[https://www.monarchoevents.com/](https://www.monarchoevents.com/)_
 
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/IshiniKiridena/certificates/main/badges/MongoDB-Query-Optimization-Techniques.png" alt="MongoDB Query Optimization Techniques" width="200" />
-    <br/>
-    <a href="https://www.credly.com/badges/763e6d73-26c2-4ef3-952e-570099bca37a/public_url">View Certificate</a>
-  </div>
 
-</div>
+### 🔹 **OrbitX – Digital Marketing Agency Website (Next.js + Tailwind + shadcn/ui)**
 
-### [Introduction to Gen AI](https://www.cloudskillsboost.google/public_profiles/a7039342-a06f-472a-9049-fd8090fa1bd6/badges/18192760) - Google
+A sleek, high-conversion marketing agency website built with a modern UI/UX approach.  
+Currently launched with a **“Coming Soon” landing page** while the full multi-page site is under development.  
+**Role:** UX Strategy, UI Design, Frontend Development, Branding Alignment  
+**Highlights:** Responsive hero section, brand-aligned visuals, scalable component structure, SEO-ready architecture, planned service pages & case-study modules  
+🔗 _Repo:_ _Private (in development)_  
+🔗 _Live URL:_ _[https://www.orbitx.biz/](https://www.orbitx.biz/)_
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IshiniKiridena&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IshiniKiridena&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshiniKiridena&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=IshiniKiridena&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🧰 Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Frontend:**  
+React, Next.js, Angular, TypeScript, JavaScript, Tailwind, Scadcn
 
----
-[![](https://visitcount.itsvg.in/api?id=IshiniKiridena&icon=5&color=11)](https://visitcount.itsvg.in)
+**Backend:**  
+Node.js, Express.js, JWT Auth, REST APIs, MongoDB, PostgreSQL, Go, RabbitMQ
 
+**Blockchain & Web3:**  
+Solidity, EVM Chains (Ethereum, Polygon), ethers.js
+
+**Tools & Platforms:**  
+Postman, GitHub, Jira, Confluence, Notion, Figma
+
+
+
+## 🏅 **Certifications**
+
+### **Google Cloud – Generative AI Series (2025)**
+
+-   🧠 [Introduction to Generative AI](https://www.skills.google/public_profiles/a7039342-a06f-472a-9049-fd8090fa1bd6/badges/18192760)
+    
+-   🧩 [Introduction to Large Language Models](https://www.skills.google/public_profiles/a7039342-a06f-472a-9049-fd8090fa1bd6/badges/19328754)
+    
+-   🔒 [Introduction to Responsible AI](https://www.skills.google/public_profiles/a7039342-a06f-472a-9049-fd8090fa1bd6/badges/19886795)
+    
+
+
+### **MongoDB University – Professional Track**
+
+-   ⚙️ [Query Optimization Techniques](https://www.credly.com/badges/763e6d73-26c2-4ef3-952e-570099bca37a)
+    
+-   🟢 [CRUD Operations in MongoDB](https://www.credly.com/badges/68aa6ff9-c46c-41ee-9347-f220ad45d18a/linked_in_profile)
+    
+-   🔄 [MongoDB Aggregation](https://learn.mongodb.com/c/2mh2QEYoRqiI4LzMZbZ8ow)
+    
+-   📚 [MongoDB Indexes I](https://learn.mongodb.com/c/md7lzBd8S7CXbCWXxLrwhg)
+    
+-   📚 [MongoDB Indexes II](https://learn.mongodb.com/c/YBJ1sgBTSpGM4TgPsTEYRQ)
+    
+-   🔄 [MongoDB for SQL Professionals](https://learn.mongodb.com/c/swRRCKpuTqG2OEnBb4BPdA)
+    
+-   🧩 [Data Modeling Intro](https://learn.mongodb.com/c/qieNK_onSwiat_We-nA_lg)
+    
+-   📄 [MongoDB & the Document Model](https://learn.mongodb.com/c/kZwusC4TQVuj1APL0l46zw)
+    
+-   🧠 [MongoDB for SQL Experts](https://learn.mongodb.com/c/i2cR-yd1RPiRLv1ivNtSbA)
+    
+
+
+### **Blockchain & Cloud**
+
+-   🟣 **Solana Blockchain Developer Foundation – Udemy (2025)**  
+    [Certificate](https://www.udemy.com/certificate/UC-3af70435-78a6-47a0-af2c-90e4908ca3c3/)
+    
+
+
+### **DevOps & Containerization**
+
+-   🐳 **Getting Started with Docker – Simplilearn (2024)**  
+    [Certificate](https://certificates.simplicdn.net/share/5042181_1712986911.pdf)
+    
+
+
+## 📈 GitHub Stats
+
+<p align="left"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=IshiniKiridena&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true" /> <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=IshiniKiridena&theme=shades-of-purple&hide_border=false" /> </p>
+
+
+## 🏅 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=IshiniKiridena&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+
+
+## 📫 Connect with me
+
+<p align="left"> <a href="https://www.linkedin.com/in/ishini-kiridena-8a5260152/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/_i.s.h.i.n.i_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://medium.com/@ishini.kiridena"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://stackoverflow.com/users/13511510/ishini-kiridena"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> </p>
+
+## ✨ Quote I Work By
+
+> _“Quality is not an act, it is a habit.”_ – Aristotle
